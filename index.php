@@ -12,7 +12,10 @@
     <div class="container">
     
         <h1 class="display-4 text-center text-danger">MonSiteGithub</h1>
-    
+
+        <p class="col-md-6 mx-auto alert alert-dark text-center">Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
+        Voluptatibus beatae quas iste? Facere id omnis laboriosam excepturi quod dolores vitae quos aperiam, 
+        iste blanditiis ipsum pariatur molestias. Non, ipsam neque.</p>
     
     </div>
 </body>
